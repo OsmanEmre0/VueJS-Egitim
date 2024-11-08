@@ -1,3 +1,3 @@
 # BTK-VueJS-Egitimi
 
-Eğitim sırasında yazdığımız örnekler ve uygulamar.
+Eğitim sırasında yazdığımız çalışmalar ve uygulamar.
